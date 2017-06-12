@@ -8,3 +8,5 @@
 [assignment 4 week 6](https://github.com/Thomasso98/assignments/blob/master/assignment4%20(2).ipynb)
 
 [assignment 5 week 8](https://github.com/Thomasso98/assignments/blob/master/assignment5.ipynb)
+
+[Final python assignment](https://github.com/Thomasso98/assignments/blob/master/Final_Assignment_Python_1_students.ipynb)
